@@ -113,3 +113,7 @@ Feel free to contribute to this project by:
 3. Committing your changes
 4. Pushing to the branch
 5. Creating a new Pull Request
+
+## Acknowledgments
+
+This project was created as part of the Celebal Technologies React internship program.
